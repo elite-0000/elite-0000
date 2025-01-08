@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-<h1 align="center">Hi 👋, I'm Aladinyo</h1>
+<h1 align="center">Hi 👋, I'm Senior Backend Develoepr</h1>
 <h3 align="center">Your favorite Full Stack Web Developer, I can build anything magically 🔮🪄 for you with React, NodeJS and Firebase 💻🧑‍💻, and I can put my beautiful UI & UX skills to your app 🎨🖌️.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aladinyo&base=12300&label=Profile%20views&color=blueviolet&style=flat" alt="aladinyo" /> </p>
@@ -9,17 +9,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
-- 🔭 I’m currently working on [ChatPlus](https://github.com/aladinyo/ChatPlus)
+- 🔭 I’m currently working on
 
 - 🌱 I’m currently learning **AI, Machine Learning and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aladinyo?tab=repositories](https://github.com/aladinyo?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/elite-0000?tab=repositories](https://github.com/elite-0000?tab=repositories)
 
-- 📝 I regularly write articles on [https://dev.to/aladinyo](https://dev.to/aladinyo)
+- 💬 Ask me about **AWS, GCP, Heroku and Golang, Python, Rust**
 
-- 💬 Ask me about **React, JavaScript, NodeJS and Firebase**
-
-- 📫 How to reach me **bounekeur@gmail.com**
+- 📫 How to reach me **elite.alphapoint1990@gmail.com**
 
 - ⚡ Fun fact **I'm a rapper 🎤🎧🎵**
 <br/>
