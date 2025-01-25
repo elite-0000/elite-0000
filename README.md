@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm Senior FullStack Develoepr</h1>
 <h3 align="center">Your favorite Full Stack Web Developer, I can build anything magically 🔮🪄 for you with React, Next, Vue, NodeJS and Firebase 💻🧑‍💻, and I can put my beautiful UI & UX skills to your app 🎨🖌️.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elite-0000&base=12300&label=Profile%20views&color=blueviolet&style=flat" alt="aladinyo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elite-0000&base=12300&label=Profile%20views&color=blueviolet&style=flat" alt="elite-0000" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elite-0000&row=2&column=4&margin-w=15&margin-h=15" alt="elite-0000" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
