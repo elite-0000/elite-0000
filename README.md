@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Senior FullStack Develoepr</h1>
 <h3 align="center">Your favorite Full Stack Web Developer, I can build anything magically 🔮🪄 for you with React, Next, Vue, NodeJS and Firebase 💻🧑‍💻, and I can put my beautiful UI & UX skills to your app 🎨🖌️.</h3>
+<p>I'm experienced in building complex UI on web applications with JavaScript/TypeScript, ReactJS, NextJS, and TailwindCSS, shadcn/ui, libraries like TanStack Query, zod, framer-motion, CMS Sanity.io and Storyblok, and others.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elite-0000&base=12300&label=Profile%20views&color=blueviolet&style=flat" alt="elite-0000" /> </p>
 
