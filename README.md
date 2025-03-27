@@ -1,27 +1,73 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+### Hello, I'm Sr.Full Stack Developer :wave:
 
-<h1 align="center">Hi 👋, I'm Senior FullStack Develoepr</h1>
-<h3 align="center">Your favorite Full Stack Web Developer, I can build anything magically 🔮🪄 for you with React, Next, Vue, NodeJS and Firebase 💻🧑‍💻, and I can put my beautiful UI & UX skills to your app 🎨🖌️.</h3>
-<p>I'm experienced in building complex UI on web applications with JavaScript/TypeScript, ReactJS, NextJS, and TailwindCSS, shadcn/ui, libraries like TanStack Query, zod, framer-motion, CMS Sanity.io and Storyblok, and others.</p>
+- :telescope: I like working on network protocols and applications, particularly distributed ones.
+- :computer: I have a wide range of interests in new technologies, from video game graphics to robotics and 3D printing.
+- :star: I'm a WebRTC expert and the author of [libdatachannel](https://libdatachannel.org/), a C/C++ WebRTC standalone library.
+- :smile: Pronouns: he/him
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elite-0000&base=12300&label=Profile%20views&color=blueviolet&style=flat" alt="elite-0000" /> </p>
+## My Core Skill
+- Frontend Technologies:
+  - HTML5, CSS3, JavaScript/TypeScript
+  - React.js, React Native (Expo)
+  - Modern ES Modules
+  - Web Components and UI Frameworks
 
+- Backend Technologies:
+  - Node.js, Django, Flask
+  - RESTful APIs and GraphQL
+  - Database: MySQL, DynamoDB, MongoDB
+  - Microservices Architecture
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+- Video Streaming & Broadcasting:
+  - Protocols: HLS, MPEG-DASH, RTMP, RTSP, SRT
+  - Broadcasting: OTT, IPTV, CTV
+  - Video Codecs: H.264, HEVC, VP9, AV1
+  - Streaming Servers: Wowza, Red5, Nginx
 
-- 🔭 I’m currently working on
+- Cloud & DevOps:
+  - AWS Services (Cognito, AppSync, Lambda, API Gateway, CloudFront, S3)
+  - GCP, Amazon Kinesis Video Streaming
+  - CI/CD, Docker, Git
+  - CDNs: Akamai, CloudFront, Fastly
 
-- 🌱 I’m currently learning **AI, Machine Learning and Python**
+- Web3 & Blockchain:
+  - Smart Contract Development
+  - WalletConnect Integration
+  - Hardhat Testing Framework
+  - Multi-chain Development
 
-- 👨‍💻 All of my projects are available at [https://github.com/elite-0000?tab=repositories](https://github.com/elite-0000?tab=repositories)
+- Additional Skills:
+  - IoT Protocols: MQTT
+  - Surveillance Systems: CCTV, IP Cameras
+  - Programming Languages: C/C++, Python, JavaScript, Golang, C#/.NET
+  - Media Processing: FFmpeg, Gstreamer, x264, AWS Elemental MediaConvert
 
-- 💬 Ask me about **AWS, GCP, Heroku and Golang, Python, Rust**
+## My Working History
 
-- 📫 How to reach me **elite.alphapoint1990@gmail.com**
+### Senior Full Stack Web Developer | Visionary Streams
+### June 2020 - April 2024
 
-- ⚡ Fun fact **I'm a rapper 🎤🎧🎵**
-<br/>
- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- Deployed WalletConnect using the Rainbowkit to furnish a secure and user-friendly wallet connection, inclusive of WalletConnect v2, ensuring a seamless and protected user experience.
+- Conducted rigorous testing of the developed smart contracts using Hardhat and executed on-chain tests on the Sepolia testnet, adeptly resolving issues to guarantee the security and efficiency of the smart contracts.
+- Pioneered cross-platform mobile apps and admin panels for iOS/Android, utilizing React/React Native (Expo),Node.js, and extensive AWS services like Cognito, AppSync, Lambda, API Gateway, DynamoDB, CloudWatch,Amplify, S3 etc.
+- Initiated ideas for extending project to multi-chain.
+- Engineered dynamic web pages using cutting-edge technologies, including HTML5, CSS3, JavaScript, React.js, ES Modules, and custom routers for optimal functionality and performance.
+
+### Backend Developer | BACKEND SOLUTIONS GROUP
+### March 2017 - May 2020
+
+- Developed robust backend services and APIs using Django and Flask, supporting high-traffic web applications.
+- Implemented database schema design and optimization, improving data retrieval times by 40%.
+    Worked on integrating third-party services and ensuring secure data transactions across all backend systems.
+
+### Senior Full Stack Web Developer | TechMedia Inc
+### January 2015 - February 2017
+- Responsible for brainstorming, developing, testing, collaborating, code reviewing, debugging, and deploying backend
+features. (GitHub, CI/CD, Unit Test)
+- Improved vaccine covid-19 registration and drastically reduced api load response time by revamping query sql. (Nodejs,
+Mysql)
+- Implemented clean code in Javascript that improve code quality, scalability, and maintainability
+- Developed and maintained the article api platform used by marketing team (Node.JS, Strapi.JS)
+- Developed and maintained the article API platform used by the marketing team, enabling them to create high-quality and
+SEO-friendly articles to attract website visitors (Node.JS, Mysql, Grpc).
 
