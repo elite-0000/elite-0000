@@ -1,7 +1,7 @@
 ### Hello, I'm Sr.Full Stack Developer :wave:
 
 - :telescope: I like working on network protocols and applications, particularly distributed ones.
-- :computer: I have a wide range of interests in new technologies, from video game graphics to robotics and 3D printing.
+- :computer: I have great experience with AI technologies, from Chatbot, AI agent to AI Video, Audio, Text Generation Platfom.
 - :star: I'm a WebRTC expert and the author of [libdatachannel](https://libdatachannel.org/), a C/C++ WebRTC standalone library.
 - :smile: Pronouns: he/him
 
