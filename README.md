@@ -1,4 +1,4 @@
-### Hello, I'm Sr.Full Stack Developer :wave:
+### Hello, I'm Senior Full Stack Developer :wave:
 
 - :telescope: I like working on network protocols and applications, particularly distributed ones.
 - :computer: I have great experience with AI technologies, from Chatbot, AI agent to AI Video, Audio, Text Generation Platfom.
